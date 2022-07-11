@@ -1,0 +1,11 @@
+#Ejercicio 1
+'''Escribe la siguiente expresión en forma de expresión algorítmica:
+
+(a^3 x (b^2-2ac))/2b '''
+
+a = float(input("Defina a: "))
+b = float(input("Defina b: "))
+
+resultado = ((3+5*8)<3 and (-6/3*4)+2<2) or (a>b)
+
+print(f"El resultado es: {resultado}")
